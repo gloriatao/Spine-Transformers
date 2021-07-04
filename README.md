@@ -6,7 +6,7 @@ Spine-Transformers: Vertebra Detection and
 Localization in Arbitrary Field-of-View Spine
 CT with Transformers
 
-Rong Tao and Guoyan Zheng∗ In MICCAI 2021 <br/>
+Rong Tao and Guoyan Zheng* In MICCAI 2021 <br/>
 Institute of Medical Robotics, <br/> 
 School of Biomedical Engineering, <br/>
 Shanghai Jiao Tong University <br/>

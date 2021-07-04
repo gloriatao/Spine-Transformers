@@ -1,16 +1,15 @@
 # Spine-Transformers:Vertebra Detection and Localization in Arbitrary Field-of-View Spine CT with Transformers
 
-This is the official implementation of:
+This is a reference implementation of our paper that will appear in MICCAI2021:
 
 Spine-Transformers: Vertebra Detection and
 Localization in Arbitrary Field-of-View Spine
 CT with Transformers
 
-Rong Tao and Guoyan Zheng* In MICCAI 2021 <br/>
+Rong Tao and Guoyan Zheng*  <br/>
 Institute of Medical Robotics, <br/> 
 School of Biomedical Engineering, <br/>
 Shanghai Jiao Tong University <br/>
-*Correspondence
 
 
 ![alt text](https://github.com/gloriatao/Spine-Transformers/blob/main/images/Fig1_net_update.png)
